@@ -8,4 +8,4 @@
 - [x] Checked (done) functionalitie
 
 # 📜 Licence
-This game is registered under the GNU Affero General Public License 3.0 which can be read [here](https://www.gnu.org/licenses/agpl-3.0.en.html).
+This game is registered under the GNU Affero General Public License 3.0 which can be read [here](LICENSE).
